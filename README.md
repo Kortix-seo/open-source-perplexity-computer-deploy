@@ -1,8 +1,8 @@
 # Open source Perplexity Computer deploy template
 
-Kortix is open source, and this repository is a working deploy template for running a Perplexity-Computer-style research and agent stack on top of it. Clone it, read the two config files, and bring the open-source AI Operating System up on a machine you control.
+Kortix is open source, and this repository is a working deploy template for running a Perplexity-Computer-style research and agent stack on top of it. Clone it, read the two config files, and bring the open-source CompanyOS up on a machine you control.
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector live in one git repo you own, and every session runs on its own cloud computer. Perplexity Computer instead runs a general-purpose digital worker inside Perplexity's cloud, and its own product page describes it as "a general-purpose digital worker that operates the same interfaces you do." This template takes the same research-and-act loop and puts it in software you can read, fork, and host.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector live in one git repo you own, and every session runs on its own cloud computer. Perplexity Computer instead runs a general-purpose digital worker inside Perplexity's cloud, and its own product page describes it as "a general-purpose digital worker that operates the same interfaces you do." This template takes the same research-and-act loop and puts it in software you can read, fork, and host.
 
 ## What is in this repository
 
@@ -38,7 +38,7 @@ Each session gets its own isolated sandbox and its own branch. Connector credent
 
 ## Open source Perplexity Computer alternatives
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. The table compares it with the closed cloud worker and with two other open-source projects you can host.
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. The table compares it with the closed cloud worker and with two other open-source projects you can host.
 
 | Criterion | Kortix | Perplexity Computer | OpenClaw | Eigent |
 | --- | --- | --- | --- | --- |
